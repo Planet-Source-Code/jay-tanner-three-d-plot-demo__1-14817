@@ -1,0 +1,24 @@
+
+A simple 3D plotting demo program written by Jay Tanner
+
+Jay@NeoProgrammics.com
+
+
+This is a simple demo of the raw methodology involved in
+the basics of plotting 3D points on a 2D monitor screen.
+
+All this simple program does is compute the image of a cube
+one point at a time with a circle drawn on the front face.
+
+Anyone who wants to learn the elementary math involved in
+plotting a point in 3D space onto a 2D monitor can study the
+source and experiment with various viewpoint settings in the
+interface to see how they interrelate and effect things.
+
+Each of the X,Y,Z axes are color coded as RGB respectively
+help to keep track of the image orientation.
+
+
+Many comments in the code explain what each part does.
+
+
